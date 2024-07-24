@@ -1,2 +1,8 @@
 server:
-  port: 80
+  port: 8878
+github:
+  client:
+    id: Ov23lipVqFByV9PGJtFj
+    secrst: 724355f76f1796c0595b993180d5c0482c098386
+  redirect:
+    uri: http://localhost:8878/callback
